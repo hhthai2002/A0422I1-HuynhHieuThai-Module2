@@ -1,6 +1,6 @@
 package practice;
 
-public class declare_use_variable {
+public class Variables {
     public static void main(String[] args) {
         int i = 10;
         float f = 20.5f;

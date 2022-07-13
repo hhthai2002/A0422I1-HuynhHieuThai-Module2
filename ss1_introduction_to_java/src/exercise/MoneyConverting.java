@@ -2,7 +2,7 @@ package exercise;
 
 import java.util.Scanner;
 
-public class ConvertFromUSDToVND {
+public class MoneyConverting {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the amount (USD): ");

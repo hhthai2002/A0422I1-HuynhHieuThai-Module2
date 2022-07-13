@@ -3,7 +3,7 @@ package practice;
 
 import java.util.Scanner;
 
-public class count_BMI {
+public class BMI {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double weight, height, bmi;

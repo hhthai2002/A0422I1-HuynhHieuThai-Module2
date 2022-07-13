@@ -2,7 +2,7 @@ package practice;
 
 import java.util.Scanner;
 
-public class use_operator {
+public class Operators {
     public static void main(String[] args) {
         float width;
         float height;
