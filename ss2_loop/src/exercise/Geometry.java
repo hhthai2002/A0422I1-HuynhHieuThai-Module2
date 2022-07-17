@@ -29,7 +29,7 @@ public class Geometry {
                     System.exit(0);
                     break;
                 default:
-                    System.out.print("Not in menu !!!");
+                    System.out.print("Not in menu !!!\n");
             }
         }
         while(true);
