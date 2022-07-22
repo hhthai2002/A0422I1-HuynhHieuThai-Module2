@@ -1,4 +1,4 @@
-package exercises;
+package exercise;
 
 public class Circle {
     private static double radius = 1.0;
