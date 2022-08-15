@@ -4,12 +4,17 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Module_2.iml" filepath="$PROJECT_DIR$/.idea/Module_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../major/Maven/Test1/Test1.iml" filepath="$PROJECT_DIR$/../../major/Maven/Test1/Test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss10_arraylist/ss10_arraylist.iml" filepath="$PROJECT_DIR$/ss10_arraylist/ss10_arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss11_stack_and_queue/ss11_stack_and_queue.iml" filepath="$PROJECT_DIR$/ss11_stack_and_queue/ss11_stack_and_queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss1_introduction_to_java/ss1_introduction_to_java.iml" filepath="$PROJECT_DIR$/ss1_introduction_to_java/ss1_introduction_to_java.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss2_loop/ss2_loop.iml" filepath="$PROJECT_DIR$/ss2_loop/ss2_loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss3_array_and_method/ss3_array_and_method.iml" filepath="$PROJECT_DIR$/ss3_array_and_method/ss3_array_and_method.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss4_class_and_object/ss4_class_and_object.iml" filepath="$PROJECT_DIR$/ss4_class_and_object/ss4_class_and_object.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss5_access_modifier_static_method_static_property/ss5_access_modifier_static_method_static_property.iml" filepath="$PROJECT_DIR$/ss5_access_modifier_static_method_static_property/ss5_access_modifier_static_method_static_property.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss6_inheritance/ss6_inheritance.iml" filepath="$PROJECT_DIR$/ss6_inheritance/ss6_inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss7_abstract_class_and_interface/ss7_abstract_class_and_interface.iml" filepath="$PROJECT_DIR$/ss7_abstract_class_and_interface/ss7_abstract_class_and_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss7_abstract_class_and_interfaces/ss7_abstract_class_and_interfaces.iml" filepath="$PROJECT_DIR$/ss7_abstract_class_and_interfaces/ss7_abstract_class_and_interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss8_clean_code_refactoring/ss8_clean_code_refactoring.iml" filepath="$PROJECT_DIR$/ss8_clean_code_refactoring/ss8_clean_code_refactoring.iml" />
     </modules>
   </component>
 </project>
