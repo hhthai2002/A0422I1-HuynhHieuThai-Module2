@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/ss10_arraylist/ss10_arraylist.iml" filepath="$PROJECT_DIR$/ss10_arraylist/ss10_arraylist.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss11_stack_and_queue/ss11_stack_and_queue.iml" filepath="$PROJECT_DIR$/ss11_stack_and_queue/ss11_stack_and_queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss12_java_collection_framework/ss12_java_collection_framework.iml" filepath="$PROJECT_DIR$/ss12_java_collection_framework/ss12_java_collection_framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss13_searching_algorithm/ss13_searching_algorithm.iml" filepath="$PROJECT_DIR$/ss13_searching_algorithm/ss13_searching_algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss14_sorting_algorithm/ss14_sorting_algorithm.iml" filepath="$PROJECT_DIR$/ss14_sorting_algorithm/ss14_sorting_algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss1_introduction_to_java/ss1_introduction_to_java.iml" filepath="$PROJECT_DIR$/ss1_introduction_to_java/ss1_introduction_to_java.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss2_loop/ss2_loop.iml" filepath="$PROJECT_DIR$/ss2_loop/ss2_loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss3_array_and_method/ss3_array_and_method.iml" filepath="$PROJECT_DIR$/ss3_array_and_method/ss3_array_and_method.iml" />
